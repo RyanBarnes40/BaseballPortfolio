@@ -47,6 +47,7 @@ function App() {
       "Awarded Golden Glove for u18 - Blacktown Workers (2023/2024)",
       "NSW Schoolboys Baseball - CIS Representative (2023-2024)",
       "The Pittwater House Schools - Baseballer of the Year (2023-2024)",
+      "Pittsburgh Pirates Australian National Invitational Showcase (2023)",
       "Senior League National Championships - 3rd place (2022)",
       "International Experience: 2 West Coast USA tours, Florida tours, Japan tours (PONY)"
     ],
