@@ -23,7 +23,7 @@ function App() {
     stats: {
       catching: [
         { label: "Pop Time", value: "1.98s" },
-        { label: "Caught Stealing", value: "3" },
+        { label: "Caught Stealing", value: "3(25%)" },
         { label: "Fielding %", value: ".978" },
         { label: "Pass Balls", value: "0" },
         { label: "Pickoffs", value: "1" },
