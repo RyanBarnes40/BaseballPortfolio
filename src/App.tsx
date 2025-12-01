@@ -150,8 +150,8 @@ function App() {
               <span className="stat-value">{playerData.batsThrows}</span>
             </div>
             <div className="hero-stat">
-              <span className="stat-label">GPA</span>
-              <span className="stat-value">3.82</span>
+              <span className="stat-label">GPA/SAT</span>
+              <span className="stat-value">3.96/1270</span>
             </div>
           </div>
           
