@@ -171,7 +171,7 @@ function App() {
       <section id="stats" className="stats-section">
         <div className="container">
           <h2 className="section-title">Player Statistics Summer 2025</h2>
-          <h3 className="games-played">Games Played: 8</h3>
+          <h3 className="games-played">Games Played: 9</h3>
           
           <div className="stats-grid">
             <div className="stats-category">
