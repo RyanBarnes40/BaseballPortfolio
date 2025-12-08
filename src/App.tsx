@@ -23,17 +23,17 @@ function App() {
     stats: {
       catching: [
         { label: "Pop Time", value: "1.98s" },
-        { label: "Caught Stealing", value: "3(25%)" },
-        { label: "Fielding %", value: ".978" },
+        { label: "Caught Stealing", value: "4(30.77%)" },
+        { label: "Fielding %", value: ".980" },
         { label: "Pass Balls", value: "0" },
         { label: "Pickoffs", value: "1" },
         { label: "60 Yard Dash", value: "7.4" }
       ],
       hitting: [
-        { label: "Batting Avg", value: ".429" },
-        { label: "RBIs", value: "8" },
-        { label: "OBP", value: ".520" },
-        { label: "OPS", value: "1.187" },
+        { label: "Batting Avg", value: ".360" },
+        { label: "RBIs", value: "9" },
+        { label: "OBP", value: ".448" },
+        { label: "OPS", value: "1.008" },
         { label: "QAB", value: "8" },
         { label: "TB", value: "14" }
       ]
